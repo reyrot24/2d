@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/8-bit-project/",
+  base: "/2d-project/",
   plugins: [react()],
 });
